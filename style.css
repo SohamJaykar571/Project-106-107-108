@@ -1,0 +1,22 @@
+#heading{
+    color: rgb(255, 230, 2);
+}
+#note{
+    color: crimson;
+}
+body{
+    background-color: aquamarine;
+}
+.div_animal_image{
+    background-color: rgb(38, 255, 0);
+    color: rgb(247, 115, 115);
+    font-size: large;
+    padding: 100px;
+}
+.footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: aqua;
+    color: rgb(255, 69, 2);
+}
